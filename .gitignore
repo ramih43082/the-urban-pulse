@@ -1,0 +1,15 @@
+# Environments
+venv/
+.venv/
+ENV/
+
+# PyCharm/IDE
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data (Never upload raw large datasets to GitHub)
+*.csv
+*.json
